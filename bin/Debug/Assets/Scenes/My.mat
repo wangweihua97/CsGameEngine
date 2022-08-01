@@ -1,0 +1,25 @@
+shaderName: comShader
+uniformValues:
+  _MainColor:
+    type: SHADER_TYPE_VEC4
+    value:
+      v:
+        x: 1
+        y: 1
+        z: 1
+        w: 1
+  diffuse:
+    type: SHADER_TYPE_SAMPLER2D
+    value:
+      path: Assets/Model/swat/Soldier_Body_diffuse.png
+      bindPos: 0
+  specular:
+    type: SHADER_TYPE_SAMPLER2D
+    value:
+      path: Assets/Model/swat/Soldier_Body_specular.png
+      bindPos: 0
+  normal:
+    type: SHADER_TYPE_SAMPLER2D
+    value:
+      path: ''
+      bindPos: 0

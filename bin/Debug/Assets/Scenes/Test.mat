@@ -1,0 +1,10 @@
+shaderName: default
+UniformValues:
+  _MainColor:
+    type: SHADER_TYPE_VEC4
+    value:
+      v:
+        X: 1
+        Y: 1
+        Z: 1
+        W: 1

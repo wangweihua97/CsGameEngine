@@ -1,0 +1,22 @@
+shaderName: Tex2D
+uniformValues:
+  _MainColor:
+    type: SHADER_TYPE_VEC4
+    value:
+      v:
+        x: 1
+        y: 1
+        z: 1
+        w: 1
+        max: 1
+        min: 1
+        maxIndex: 0
+        minIndex: 0
+        norm: 2
+        square: 4
+  albedoMap:
+    type: SHADER_TYPE_SAMPLER2D
+    value:
+      path: Assets/Model/swat/Soldier_Body_diffuse.png
+      bindPos: 0
+usePbr: false

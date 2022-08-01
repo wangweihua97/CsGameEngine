@@ -1,0 +1,14 @@
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\bin\Debug\WpfUnmanagedOpenGL.exe.config
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\bin\Debug\WpfUnmanagedOpenGL.exe
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\bin\Debug\WpfUnmanagedOpenGL.pdb
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\obj\Debug\MainWindow.g.cs
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\obj\Debug\App.g.cs
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\obj\Debug\WpfUnmanagedOpenGL_MarkupCompile.cache
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\obj\Debug\WpfUnmanagedOpenGL_MarkupCompile.lref
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\obj\Debug\MainWindow.baml
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\obj\Debug\WpfUnmanagedOpenGL.g.resources
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\obj\Debug\WpfUnmanagedOpenGL.Properties.Resources.resources
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\obj\Debug\WpfUnmanagedOpenGL.csproj.GenerateResource.cache
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\obj\Debug\WpfUnmanagedOpenGL.csproj.CoreCompileInputs.cache
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\obj\Debug\WpfUnmanagedOpenGL.exe
+F:\OpenGl\MyGame\Test\WpfUnmanagedOpenGL\WpfUnmanagedOpenGL\obj\Debug\WpfUnmanagedOpenGL.pdb
