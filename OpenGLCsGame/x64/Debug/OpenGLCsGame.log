@@ -1,0 +1,109 @@
+﻿  glad.c
+  Camera.cpp
+  CameraComponent.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\OpenGL\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+  Component.cpp
+  CubeMeshComponent.cpp
+  EventCenter.cpp
+  GameObject.cpp
+  Input.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\OpenGL\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+  InterfaceBase.cpp
+  Mesh.cpp
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Mesh.cpp(124,78): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Mesh.cpp(134,78): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+  ModelComponent.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\OpenGL\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(97,104): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(114,101): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ModelComponent.cpp(439,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ModelComponent.cpp(441,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ModelComponent.cpp(572,26): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ModelComponent.cpp(574,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ModelComponent.cpp(676,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ModelComponent.cpp(708,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  MoveComponent.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\OpenGL\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(97,104): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(114,101): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\MoveComponent.cpp(15,40): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\MoveComponent.cpp(16,40): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  Scene.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\OpenGL\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+  GUID.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\OpenGL\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+  ResourceManager.cpp
+  ScheduleCommand.cpp
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(97,104): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(114,101): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  Shader.cpp
+  stb_image.cpp
+  Texture.cpp
+  Time.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\OpenGL\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(97,104): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(114,101): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  Transform.cpp
+  Tween.cpp
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(97,104): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(114,101): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\OpenGL\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Tween.cpp(11,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Tween.cpp(16,18): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Tween.cpp(21,18): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  Tweener.cpp
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(97,104): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(114,101): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\OpenGL\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+  Window.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\OpenGL\Include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(97,104): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\ScheduleCommand.h(114,101): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Window.cpp(139,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Window.cpp(193,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Window.cpp(194,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Window.cpp(196,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Window.cpp(197,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Window.cpp(203,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Window.cpp(392,57): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Tweener.h(41,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Tweener.h(20): message : 在编译 类 模板 成员函数“Tweener<glm::vec3>::Tweener(T,T,float,std::function<void (glm::vec3)>,std::function<T (T,T,float)>)”时
+          with
+          [
+              T=glm::vec3
+          ]
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Tween.h(53): message : 查看对正在编译的函数 模板 实例化“Tweener<glm::vec3>::Tweener(T,T,float,std::function<void (glm::vec3)>,std::function<T (T,T,float)>)”的引用
+          with
+          [
+              T=glm::vec3
+          ]
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Tween.h(53): message : 查看对正在编译的 类 模板 实例化“Tweener<glm::vec3>”的引用
+F:\OpenGl\MyGame\Test\CsGameEngine\OpenGLCsGame\Window.cpp(373): message : 查看对正在编译的函数 模板 实例化“Tweener<glm::vec3> *Tween::DoTween<glm::vec3>(T,T,float,std::function<void (glm::vec3)>,Ease)”的引用
+          with
+          [
+              T=glm::vec3
+          ]
+  正在生成代码...
+    正在创建库 F:\OpenGl\MyGame\Test\CsGameEngine\x64\Debug\OpenGLCsGame.lib 和对象 F:\OpenGl\MyGame\Test\CsGameEngine\x64\Debug\OpenGLCsGame.exp
+  OpenGLCsGame.vcxproj -> F:\OpenGl\MyGame\Test\CsGameEngine\x64\Debug\OpenGLCsGame.dll

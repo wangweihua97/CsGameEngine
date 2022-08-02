@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\Tool">
+      <UniqueIdentifier>{932d76f5-0a51-435e-a6d6-8a412da8c651}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Tool">
+      <UniqueIdentifier>{99f6fdff-ca09-42e6-969f-266ebea985f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Component">
+      <UniqueIdentifier>{bba72775-46e1-4166-822d-8849561d00d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Component">
+      <UniqueIdentifier>{2cc4ba6f-3fa2-4b4f-b69d-12f582b05148}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Event">
+      <UniqueIdentifier>{ddbb61e2-6839-4e12-9477-be292187c43b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Event">
+      <UniqueIdentifier>{67e872d6-0f01-484b-8f80-caa7197693cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\GameObjects">
+      <UniqueIdentifier>{b3f54329-cfa7-49f7-8f78-e0782e68cdc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\GameObjects">
+      <UniqueIdentifier>{163c6627-64e3-4a91-9796-1128b1a440b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\Shader">
+      <UniqueIdentifier>{2887c9ca-0c86-4dd5-8dee-080fa49dfc20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\struct">
+      <UniqueIdentifier>{7a28f4a7-866d-416a-842b-14119f2c9b15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\struct">
+      <UniqueIdentifier>{d65bcbeb-8ce2-4f62-9eb0-895093dee77f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Mesh">
+      <UniqueIdentifier>{84af4b37-d88b-44bf-8b0b-929ad07133d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Mesh">
+      <UniqueIdentifier>{4bab91fa-ede1-4fe3-88a2-3468b1cf79e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Time">
+      <UniqueIdentifier>{ef2d0b80-6b45-40b8-a362-56765c59eac8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Time">
+      <UniqueIdentifier>{33a73310-1e84-46e2-9013-88de4f69ea7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\DLLInterface">
+      <UniqueIdentifier>{b8c99084-e50a-4dc1-9ee2-1fda47aab78e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\DLLInterface">
+      <UniqueIdentifier>{188c1dc0-ed9e-41db-952f-7fbf450331c0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GUID.h">
+      <Filter>头文件\Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="EventCenter.h">
+      <Filter>头文件\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>头文件\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="ScheduleCommand.h">
+      <Filter>头文件\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="Tween.h">
+      <Filter>头文件\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="Tweener.h">
+      <Filter>头文件\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="InterfaceBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ThirdParty\Quaternions\quaternion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\Scene.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene\SceneDLL.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\GameObject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\GameObjectDLL.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Transform.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\CameraComponent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Component.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\ComponentDLL.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\CubeMeshComponent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\ModelComponent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\MoveComponent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\Camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh\BoneMesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Res\ResourceManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Res\Texture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\Shader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ThirdParty\Quaternions\quaternion_io.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ThirdParty\Quaternions\quaternion_utils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\Material.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\RenderStruct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\RenderTarget.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\GLState.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\RenderCommandQueue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Res\TextureCube.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\GLRender.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Res\Light.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh\Mesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh\Quad.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh\Cube.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\RenderComponent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CsEvents.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\CsComponent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Render\Ibl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PostProcess\Bloom.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PostProcess\PostProcess.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\OpenGL\OPGL\glad\src\glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GUID.cpp">
+      <Filter>源文件\Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="EventCenter.cpp">
+      <Filter>源文件\Event</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>源文件\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="ScheduleCommand.cpp">
+      <Filter>源文件\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="Tween.cpp">
+      <Filter>源文件\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="Tweener.cpp">
+      <Filter>源文件\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="InterfaceBase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\Scene.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene\SceneDLL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\GameObject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\GameObjectDLL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Transform.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\CameraComponent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Component.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\ComponentDLL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\CubeMeshComponent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\ModelComponent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\MoveComponent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera\Camera.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh\BoneMesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Res\ResourceManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Res\Texture.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\Shader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\Material.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\RenderTarget.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\GLState.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\RenderCommandQueue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Res\TextureCube.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\GLRender.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Res\Light.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh\Mesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh\Quad.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh\Cube.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\RenderComponent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CsEvents.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\CsComponent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Render\Ibl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PostProcess\Bloom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PostProcess\PostProcess.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="OpenGLCsGame.aps" />
+    <None Include="RCa09124" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OpenGLCsGame1.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="OpenGLCsGame.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

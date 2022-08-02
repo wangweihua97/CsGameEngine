@@ -1,0 +1,1394 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 GLState::m_DepthTest。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/OpenGl/MyGame/Test/CsGameEngine/OpenGLCsGame/Render/GLState.cpp"
+                },
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 10,
+                  "endLine": 2,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0GLState@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GLState::m_DepthTest"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 GLState::m_CullFace。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/OpenGl/MyGame/Test/CsGameEngine/OpenGLCsGame/Render/GLState.cpp"
+                },
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 10,
+                  "endLine": 2,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0GLState@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GLState::m_CullFace"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 GLState::m_Blend。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/OpenGl/MyGame/Test/CsGameEngine/OpenGLCsGame/Render/GLState.cpp"
+                },
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 10,
+                  "endLine": 2,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0GLState@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GLState::m_Blend"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 GLState::m_DepthFunc。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/OpenGl/MyGame/Test/CsGameEngine/OpenGLCsGame/Render/GLState.cpp"
+                },
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 10,
+                  "endLine": 2,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0GLState@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GLState::m_DepthFunc"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 GLState::m_BlendSrc。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/OpenGl/MyGame/Test/CsGameEngine/OpenGLCsGame/Render/GLState.cpp"
+                },
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 10,
+                  "endLine": 2,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0GLState@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GLState::m_BlendSrc"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 GLState::m_BlendDst。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/OpenGl/MyGame/Test/CsGameEngine/OpenGLCsGame/Render/GLState.cpp"
+                },
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 10,
+                  "endLine": 2,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0GLState@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GLState::m_BlendDst"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 GLState::m_FrontFace。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/OpenGl/MyGame/Test/CsGameEngine/OpenGLCsGame/Render/GLState.cpp"
+                },
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 10,
+                  "endLine": 2,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0GLState@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GLState::m_FrontFace"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 GLState::m_PolygonMode。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/OpenGl/MyGame/Test/CsGameEngine/OpenGLCsGame/Render/GLState.cpp"
+                },
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 10,
+                  "endLine": 2,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0GLState@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GLState::m_PolygonMode"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "未初始化变量 GLState::m_ActiveShaderID。始终初始化成员变量(type.6)。"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/OpenGl/MyGame/Test/CsGameEngine/OpenGLCsGame/Render/GLState.cpp"
+                },
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 10,
+                  "endLine": 2,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0GLState@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "GLState::m_ActiveShaderID"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.29.30140.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x64\\c1xx.dll\" -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x0089C1B0 -il C:\\Users\\WANGWE~1\\AppData\\Local\\Temp\\_CL_2e737750ast -typedil -f Render\\GLState.cpp -Ze -D_MSC_EXTENSIONS -Zp16 -pc \\:/ -D_MSC_VER=1929 -D_MSC_FULL_VER=192930140 -D_MSC_BUILD=0 -D_M_AMD64=100 -ZILP448 -D_M_X64=100 -D_WIN64 -D_WIN32 -GR -D_CPPRTTI -I C:\\boost\\boost_1_77_0 -nologo -W 3 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -D_DEBUG -D_CONSOLE -D_WINDLL -D_UNICODE -DUNICODE -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MDd -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -permissive- -Zc:wchar_t -Zc:forScope -Fo.\\Debug\\GLState.obj -Fd.\\Debug\\vc142.pdb -external:W 3 -Gd -analyze:projectdirectory F:\\OpenGl\\MyGame\\Test\\CsGameEngine\\OpenGLCsGame -analyze:rulesetdirectory ;C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:ruleset C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:quiet -analyze:plugin C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -I C:\\boost\\boost_1_77_0 -I C:\\OpenGL\\Include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -external:I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/boost/boost_1_77_0/boost/function/function_base.hpp"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "ab0e11e71665dbabe68d655262816a12"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/opengl/mygame/test/wpfunmanagedopengl/openglcsgame/input.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "cdb631be561543c3551e1f6280babda8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/opengl/mygame/test/wpfunmanagedopengl/openglcsgame/input.h"
+          },
+          "hashes": {
+            "md5": "4c46cadf2e7b7820a2191d5052d8fbab"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/opengl/mygame/test/wpfunmanagedopengl/openglcsgame/window.h"
+          },
+          "hashes": {
+            "md5": "c72d1442dcf05fbeee207156b1f7bebd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/opengl/include/glad/glad.h"
+          },
+          "hashes": {
+            "md5": "5cbbe41b45f77ccec4bf000aafd2209a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/opengl/include/khr/khrplatform.h"
+          },
+          "hashes": {
+            "md5": "d03191518ac2cfc3c10d22df034b154a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/opengl/include/glfw/glfw3.h"
+          },
+          "hashes": {
+            "md5": "d445ce12f38aaa3ba841293ac30d5dc9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/opengl/mygame/test/wpfunmanagedopengl/openglcsgame/eventcenter.h"
+          },
+          "hashes": {
+            "md5": "ae2859fd96d755a91a60f5d3745b3487"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/function.hpp"
+          },
+          "hashes": {
+            "md5": "2fec0738f196b5e617bc2d700a2e93b8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/iterate.hpp"
+          },
+          "hashes": {
+            "md5": "35ffccd9c716d7c792c714855ef41df3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/iteration/iterate.hpp"
+          },
+          "hashes": {
+            "md5": "3c83e9f099da99756ef40e5baea76ca4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/arithmetic/dec.hpp"
+          },
+          "hashes": {
+            "md5": "854e68cb59b3d4dfd6ec6e58b7ff9afa"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/config/config.hpp"
+          },
+          "hashes": {
+            "md5": "195d7378ed5159ff38deaae57de5a6a0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/arithmetic/inc.hpp"
+          },
+          "hashes": {
+            "md5": "090d97e6bf1ab83a5c749d85cb2d4b3f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/array/elem.hpp"
+          },
+          "hashes": {
+            "md5": "f9bcbcce3b35895de8ee1e5131566cb4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/array/data.hpp"
+          },
+          "hashes": {
+            "md5": "7a63b371843275f51dc81e4bc3d56a99"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/tuple/elem.hpp"
+          },
+          "hashes": {
+            "md5": "d154668366645ad745f118049f322c53"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/cat.hpp"
+          },
+          "hashes": {
+            "md5": "59d86ad73250ebbf0b8e4b465abbf09d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/facilities/expand.hpp"
+          },
+          "hashes": {
+            "md5": "a4d1224a41f04c7b4c65156d2318d757"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/facilities/overload.hpp"
+          },
+          "hashes": {
+            "md5": "cac59457a2edf1834a7dea3318748bde"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/variadic/size.hpp"
+          },
+          "hashes": {
+            "md5": "2edd5ea86cb35817e86db667c8793e7c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/control/iif.hpp"
+          },
+          "hashes": {
+            "md5": "fb1262f21d23575c5a7152386fb0acf9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/facilities/check_empty.hpp"
+          },
+          "hashes": {
+            "md5": "21a75b6f2b56bdbc08143d82ba842f77"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/variadic/has_opt.hpp"
+          },
+          "hashes": {
+            "md5": "56b425e3aff9ad70c7f7c9b186447a64"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/tuple/rem.hpp"
+          },
+          "hashes": {
+            "md5": "e79ecbe7369d6f88cbc0b162c192dff5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/tuple/detail/is_single_return.hpp"
+          },
+          "hashes": {
+            "md5": "f10cc98fce75be48a498b5ee152892ab"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/facilities/is_1.hpp"
+          },
+          "hashes": {
+            "md5": "5653579fa936bc31a04091e64bcfe97e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/facilities/is_empty.hpp"
+          },
+          "hashes": {
+            "md5": "b9a5b36998ea435e495bf8862753c186"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/facilities/is_empty_variadic.hpp"
+          },
+          "hashes": {
+            "md5": "e19b60b6e70b16dac4c310782e909ee0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/punctuation/is_begin_parens.hpp"
+          },
+          "hashes": {
+            "md5": "9bd86b7e9e5ad73bb9d2a9d4c8637d93"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/punctuation/detail/is_begin_parens.hpp"
+          },
+          "hashes": {
+            "md5": "0a0d8984ac37b0f418ffab8ad63d0958"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/facilities/empty.hpp"
+          },
+          "hashes": {
+            "md5": "3ba833d94dd14b04a0cad06f2444e994"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/facilities/detail/is_empty.hpp"
+          },
+          "hashes": {
+            "md5": "0c597db1652e9102bedb9fa46dfedf7d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/tuple/size.hpp"
+          },
+          "hashes": {
+            "md5": "96fad155ba8fa27be36daba5864d055b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/control/if.hpp"
+          },
+          "hashes": {
+            "md5": "ecb858106289ac690c0fc3d053586299"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/logical/bool.hpp"
+          },
+          "hashes": {
+            "md5": "b5704a3a1e9b2221f49d09df860a8d26"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/variadic/elem.hpp"
+          },
+          "hashes": {
+            "md5": "d676a8da21226f95bdb851d6aeaaf9f0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/array/size.hpp"
+          },
+          "hashes": {
+            "md5": "768ce441425b38283761dc7b403519ab"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/slot/slot.hpp"
+          },
+          "hashes": {
+            "md5": "d1b20c89843030beb03b0cfdaa0f41a5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/slot/detail/def.hpp"
+          },
+          "hashes": {
+            "md5": "40acd85674118aca265439ef9ac376d4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/workaround.hpp"
+          },
+          "hashes": {
+            "md5": "c1f959142a909fc37ef7aa2b2409e1e4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config.hpp"
+          },
+          "hashes": {
+            "md5": "3e04a47615b15e735b123cc81e760100"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/user.hpp"
+          },
+          "hashes": {
+            "md5": "ac6f0434a2d472c1faf3254d02755517"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/detail/select_compiler_config.hpp"
+          },
+          "hashes": {
+            "md5": "e3f16250891af88784e46934efba89dd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/compiler/visualc.hpp"
+          },
+          "hashes": {
+            "md5": "d01a7efced6fc87bf5dc0df1b9617d4c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/pragma_message.hpp"
+          },
+          "hashes": {
+            "md5": "479b7626924636da28b38c84a7e2b1e5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/helper_macros.hpp"
+          },
+          "hashes": {
+            "md5": "666478f495952026cecfdf150c07691c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/detail/select_stdlib_config.hpp"
+          },
+          "hashes": {
+            "md5": "30b53d31e8803328d3c6be8b17fc3637"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/stdlib/dinkumware.hpp"
+          },
+          "hashes": {
+            "md5": "d11838f6c6b2e760b17039544212e0fd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/detail/select_platform_config.hpp"
+          },
+          "hashes": {
+            "md5": "42fbf7793b72f439343385149734435c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/platform/win32.hpp"
+          },
+          "hashes": {
+            "md5": "b4336da7fa4b10404d5756f104e13233"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/detail/suffix.hpp"
+          },
+          "hashes": {
+            "md5": "27d9cec19c6c9deb3edad58f09102a90"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/detail/cxx_composite.hpp"
+          },
+          "hashes": {
+            "md5": "aabf813cfbf2742fc6126f7615fb9f18"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/function/detail/prologue.hpp"
+          },
+          "hashes": {
+            "md5": "297645fa0cf2a1ad7acf139b7bf8fd8e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/no_tr1/functional.hpp"
+          },
+          "hashes": {
+            "md5": "01a82692fd6c7e74311f1fbb2596766e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/throw_exception.hpp"
+          },
+          "hashes": {
+            "md5": "aaa07b586f4da40fa40f79cd6e82b169"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/exception/exception.hpp"
+          },
+          "hashes": {
+            "md5": "aee1ebec72510687019c7784a6a9f243"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/assert/source_location.hpp"
+          },
+          "hashes": {
+            "md5": "ebac064eff23763396e819f9015e8f41"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/current_function.hpp"
+          },
+          "hashes": {
+            "md5": "bdf579c229c1f0ac0ef5fd4802f0ac84"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/cstdint.hpp"
+          },
+          "hashes": {
+            "md5": "4e33a15304664b61c9014382b57e053d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/assert.hpp"
+          },
+          "hashes": {
+            "md5": "6f8c0b45e182aa7cdaa2f6ea09a17e71"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/integer.hpp"
+          },
+          "hashes": {
+            "md5": "ab7cca9c4936525babc71fd5ab19568a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/integer_fwd.hpp"
+          },
+          "hashes": {
+            "md5": "a256c04eafc3caf8e4a11ab15917cfb5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/limits.hpp"
+          },
+          "hashes": {
+            "md5": "921d1f7fa81226d32512308dd2ce481c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/integer_traits.hpp"
+          },
+          "hashes": {
+            "md5": "40f98d1dddc33768cd6d295d398643da"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/static_assert.hpp"
+          },
+          "hashes": {
+            "md5": "2887781ac982a82cf4db26c3c8b21e49"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/detail/workaround.hpp"
+          },
+          "hashes": {
+            "md5": "37d77ac9147ee4182bad53310d539bb1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_index.hpp"
+          },
+          "hashes": {
+            "md5": "08380c90dad776747e2959ed45d60636"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_index/stl_type_index.hpp"
+          },
+          "hashes": {
+            "md5": "79bc5f4e9f8f3edeb9dcdd87c6865258"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_index/type_index_facade.hpp"
+          },
+          "hashes": {
+            "md5": "006bc34517887881df3bf6c9c033265c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/container_hash/hash_fwd.hpp"
+          },
+          "hashes": {
+            "md5": "ba568dc54a29608bdc54fa0fa4051f2d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/core/demangle.hpp"
+          },
+          "hashes": {
+            "md5": "607b3ffda5ae609282f2b47f8cc8ae57"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/conditional.hpp"
+          },
+          "hashes": {
+            "md5": "43a9f63b378cc86de59c9638f44998f0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_const.hpp"
+          },
+          "hashes": {
+            "md5": "558f831b0418de693fd6a9f727c1df3f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/integral_constant.hpp"
+          },
+          "hashes": {
+            "md5": "9890e6b9e52e7d875813331abdc6a727"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_reference.hpp"
+          },
+          "hashes": {
+            "md5": "d4962ff90e8569c622032df5812d16ee"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_lvalue_reference.hpp"
+          },
+          "hashes": {
+            "md5": "94a8c1bb79dbc51da44656053782bc4a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_rvalue_reference.hpp"
+          },
+          "hashes": {
+            "md5": "2e5337bc4f8c46099cf22d7d8e2d5dd8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_volatile.hpp"
+          },
+          "hashes": {
+            "md5": "cddf1176386a0c53c2c5e3b83b6d7396"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/remove_cv.hpp"
+          },
+          "hashes": {
+            "md5": "05b142b2235efa84d59879cd3e29328b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/remove_reference.hpp"
+          },
+          "hashes": {
+            "md5": "65b618796a69f3a650777a0fd8ecf89f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/has_trivial_copy.hpp"
+          },
+          "hashes": {
+            "md5": "23a915752a0d9d3392a89bf0ebc3c525"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/intrinsics.hpp"
+          },
+          "hashes": {
+            "md5": "7f53de6658d22e7cc43622c97a2f489a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/detail/config.hpp"
+          },
+          "hashes": {
+            "md5": "8023c037092bb08c62eebdc63eaf228d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/version.hpp"
+          },
+          "hashes": {
+            "md5": "20c9c6daf7388127c87e8bfbb3bfa780"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_pod.hpp"
+          },
+          "hashes": {
+            "md5": "7a7b5007f9fbe2faccbaf9512c414fb7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_void.hpp"
+          },
+          "hashes": {
+            "md5": "4f1d8f0b95840057f253d4a57bed7bfb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_scalar.hpp"
+          },
+          "hashes": {
+            "md5": "11b73696e5a9516d87592d9e8ef33ad5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_arithmetic.hpp"
+          },
+          "hashes": {
+            "md5": "8b54b400721e33112f13d6b9bff1342e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_integral.hpp"
+          },
+          "hashes": {
+            "md5": "7f64ed5f31493ee41dbad55235e10c21"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_floating_point.hpp"
+          },
+          "hashes": {
+            "md5": "7d356562cd01d312087cce6b0821c73b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_enum.hpp"
+          },
+          "hashes": {
+            "md5": "044cc17858e494a42f7deecfd82fe234"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_pointer.hpp"
+          },
+          "hashes": {
+            "md5": "fdca9c3362b1f31774332673eb58d8bf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_member_pointer.hpp"
+          },
+          "hashes": {
+            "md5": "fed088f86b6f6d39c2e282b4774bcc81"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_member_function_pointer.hpp"
+          },
+          "hashes": {
+            "md5": "52b0e90a70a1eac1d41a15a553889a51"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/detail/is_member_function_pointer_cxx_11.hpp"
+          },
+          "hashes": {
+            "md5": "77719bc799c7ab1fa39dbb82137bdd08"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/has_trivial_destructor.hpp"
+          },
+          "hashes": {
+            "md5": "5709110ef0c4ae54d068669e0ce754a8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/composite_traits.hpp"
+          },
+          "hashes": {
+            "md5": "3cddc2907a22b41c91af0b7f9fd4cdd4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_array.hpp"
+          },
+          "hashes": {
+            "md5": "5890ba4fbaa3f57329f9641411825e2e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/is_union.hpp"
+          },
+          "hashes": {
+            "md5": "859c3f9e66f0afc5deb51fac799ef9de"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/ref.hpp"
+          },
+          "hashes": {
+            "md5": "5a2cd2a2442a4961a30b05a511eaae93"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/core/ref.hpp"
+          },
+          "hashes": {
+            "md5": "a8099cc166385cedf2d4da155a6d9ee4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/core/addressof.hpp"
+          },
+          "hashes": {
+            "md5": "a5a48bfa8bf0729d3b6d663af9a11df4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/core/enable_if.hpp"
+          },
+          "hashes": {
+            "md5": "03849d735e7918cd27548f7a260b0578"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/alignment_of.hpp"
+          },
+          "hashes": {
+            "md5": "1d67b2df7f34d4e10b75ff14023b81ed"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/type_traits/enable_if.hpp"
+          },
+          "hashes": {
+            "md5": "181840e49d3cce19b26990bebd09fdf8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/function_equal.hpp"
+          },
+          "hashes": {
+            "md5": "026a920b53d5ff03667657cccbecaf0f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/function/function_fwd.hpp"
+          },
+          "hashes": {
+            "md5": "a4d46da8dab3be127e74f683792e8079"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/mem_fn.hpp"
+          },
+          "hashes": {
+            "md5": "d4999d76df891ed29a6cfd90bc632351"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/bind/mem_fn.hpp"
+          },
+          "hashes": {
+            "md5": "622374500693f8d9427f7f2875fa34e2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/get_pointer.hpp"
+          },
+          "hashes": {
+            "md5": "ba5c4f03a3820423821c68edfca8961b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/config/no_tr1/memory.hpp"
+          },
+          "hashes": {
+            "md5": "a43f9483d0711c5fa96063bd09c18616"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/bind/mem_fn_template.hpp"
+          },
+          "hashes": {
+            "md5": "0361f51130e131b33aab0665c59680df"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/bind/mem_fn_cc.hpp"
+          },
+          "hashes": {
+            "md5": "66d87e9cb6658e7cd8d87c4ec6de52e8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/enum.hpp"
+          },
+          "hashes": {
+            "md5": "75c99d967ab2fc08a4b91ccced0f6f0e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/repetition/enum.hpp"
+          },
+          "hashes": {
+            "md5": "ae9a12293f07371a8d8bff22c366a889"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/debug/error.hpp"
+          },
+          "hashes": {
+            "md5": "f6f2586fbcd909e05c45f9c627fdeadc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/detail/auto_rec.hpp"
+          },
+          "hashes": {
+            "md5": "244903a8bfc32b7c58c104c08c1b3785"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/punctuation/comma_if.hpp"
+          },
+          "hashes": {
+            "md5": "5278975e3647f6e4e1d4dceff53cd45b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/punctuation/comma.hpp"
+          },
+          "hashes": {
+            "md5": "937874ceba924b1b5a1e8a43a5ca9835"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/repetition/repeat.hpp"
+          },
+          "hashes": {
+            "md5": "b58768d8d88d9ffc8a159c934cec110f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/tuple/eat.hpp"
+          },
+          "hashes": {
+            "md5": "21cfc3242da56de2c02d2b8a980eb689"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/enum_params.hpp"
+          },
+          "hashes": {
+            "md5": "117015ff5769ccb0a99bfc7f4d1f1417"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/repetition/enum_params.hpp"
+          },
+          "hashes": {
+            "md5": "0c7667188508b7038aa3dd164415416d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/repeat.hpp"
+          },
+          "hashes": {
+            "md5": "ced35da1dc9b6cdac8908e202cb477d8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/inc.hpp"
+          },
+          "hashes": {
+            "md5": "30c2efe343e392bf8e965272d7208fca"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/iteration/detail/iter/forward1.hpp"
+          },
+          "hashes": {
+            "md5": "ac9bec75766f5a96f686a3fdb44a0178"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/iteration/detail/bounds/lower1.hpp"
+          },
+          "hashes": {
+            "md5": "937d6b9e517b113603062a3af9c02878"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/slot/detail/shared.hpp"
+          },
+          "hashes": {
+            "md5": "bd26bec84ef70cc47f3f7c21be85cf0d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/preprocessor/iteration/detail/bounds/upper1.hpp"
+          },
+          "hashes": {
+            "md5": "d8e2bef9dc62b54c6581dc5541b2afd2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/function/detail/function_iterate.hpp"
+          },
+          "hashes": {
+            "md5": "84c997e2e696ffbb345068f1b333aeec"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/function/detail/maybe_include.hpp"
+          },
+          "hashes": {
+            "md5": "d2cb27687cda44196b20ec25132e38ec"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/function/function_template.hpp"
+          },
+          "hashes": {
+            "md5": "e888edd268f840763fb7f310da977d1a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/boost/boost_1_77_0/boost/core/no_exceptions_support.hpp"
+          },
+          "hashes": {
+            "md5": "37242a66e476b3d4a9546b96e4c1b918"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///F:/OpenGl/MyGame/Test/CsGameEngine/OpenGLCsGame/Render/GLState.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "91f08d7c6ba3393db24a8722ba549a60"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/opengl/mygame/test/wpfunmanagedopengl/openglcsgame/render/glstate.h"
+          },
+          "hashes": {
+            "md5": "b664a2b0c7df0d73a469b6a12db0c1df"
+          }
+        }
+      ]
+    }
+  ]
+}
